@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 This is my first line
-TRhis is my second line
+This is my second line
 
 
 <!--
