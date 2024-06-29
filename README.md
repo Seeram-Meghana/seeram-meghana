@@ -4,8 +4,6 @@ This is my first line
 
 This is my second line
 
-This is my third line
-
 <!--
 **Seeram-Meghana/seeram-meghana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
