@@ -2,8 +2,6 @@
 
 This is my first line
 
-This is my secodn line
-
 This is my third line
 
 
